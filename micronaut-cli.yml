@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.irsyad
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, gradle, graphql, h2, http-client, jdbc-hikari, junit, kotlin, kotlin-application, logback, netty-server, openapi, properties, readme, shade]
